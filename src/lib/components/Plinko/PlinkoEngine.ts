@@ -89,7 +89,7 @@ class PlinkoEngine {
   private static ballFrictions: BallFrictionsByRowCount = {
     friction: 0.5,
     frictionAirByRowCount: {
-      8: 0.0395,
+      8: 0.0001,
       9: 0.041,
       10: 0.038,
       11: 0.0355,
